@@ -80,7 +80,7 @@ section a:hover {
     font-weight: bold;
 }
 
-footer {
+.footer {
     color: #000000;
     text-align: center;
     padding: 1em 0;
@@ -105,6 +105,8 @@ footer p {
     nav a {
         margin: 5px;
         border-radius: 10px;
-
+    }
+    .footer  {
+        display: none;
     }
 }
